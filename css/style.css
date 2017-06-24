@@ -11,24 +11,24 @@ img {
 }
 
 video {
-	width: 1024px;
+	width: 1007px;
 	height: 768px;
 }
 
 
 .home {
-	background-color: red;
+	background-color: black;
 }
 
 .two  {
-	background-color: blue;
+	background-color: black;
 }
 
 .three  {
-	background-color: green;
+	background-color: black;
 }
 
 .four {
-	background-color: pink;
+	background-color: black;
 }
 
